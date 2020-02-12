@@ -5,7 +5,7 @@ title: "Mind Body Machine Notes: Intellectualist Legend"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: []
+tags: [class,philosophy]
 categories: []
 date: 2020-02-11T09:45:16-06:00
 lastmod: 2020-02-11T09:45:16-06:00
@@ -96,5 +96,5 @@ More explicit attention to the methodology, reflecting on ordinary linguistic pr
 All this talk of behavior. Behavior vocabulary itself comes in a variety of forms:
 * Purely physically (detected by a sensor)
 * Other (action type) characterizations that need interpretation  
-  
+
 How will we characterize that of the machine?

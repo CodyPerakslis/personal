@@ -10,55 +10,55 @@ authors:
 superuser: true
 
 # Role/position
-role: Student, Developer
+role: Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Minnesota
+  url: "https://twin-cities.umn.edu/"
+- name: Distributing Systems Group
+  url: http://dcsg.cs.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests are in data science, distributed computing, and philosophy.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Distributed Systems
+- Data Science
+- Philosophy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computer Science
+    institution: University of Minnesota
+    year: 2020
+  - course: BA in Philosophy
+    institution: University of Minnesota
+    year: 2020
+  - course: BA in Mathematics
+    institution: University of Minnesota
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: instagram
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.instagram.com/cody_perak/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/CodyPerakslis
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/cody-perakslis-258954121/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:perak005@umn.edu
+- icon: file
+  icon_pack: fas
+  link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cody Perakslis is a student and distributed systems researcher at the University of Minnesota Distributed Computing Systems Group. He has Dev-Ops experience through both an internship and a startup.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His interests extend beyond technology to philosophy and writing. He believes in learning through action and interaction, and this website hosts expressions of his interests.
+
+He is consistently exploring and adjusting. This website evolves with him.
