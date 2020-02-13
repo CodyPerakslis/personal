@@ -75,3 +75,20 @@ Final project include data model. List/Pictures \>\>\> Paragraphs.
 
 ### Keys
 Delimit attributes by entity types (SSN vs customer id)  
+
+## Document Databases
+{{% alert note %}}
+Recommend book *NoSQL for Mere Mortals*
+{{% /alert %}}
+With JSON, this is where you want to denormalize as much as possible.  
+
+### Individual Inserts
+Each one is making a network connection. Document databases can do bulk inserts.
+
+### Indices
+{{% alert note %}}
+Try indexing little and indexing everything, checking the performance to find the best amount. Figure out where it breaks.
+{{% /alert %}}
+
+## For next week
+Do some data modeling. Videos on them this week, but very little reading. Please ask questions in the general channel of the videos. Will do data modeling on the exam.  
