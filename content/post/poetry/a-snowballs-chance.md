@@ -4,9 +4,9 @@
 title: "A Snowball's Chance"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: [poetry,data-science]
-categories: []
+categories: [poetry]
 date: 2020-02-12T17:49:02-06:00
 lastmod: 2020-02-12T17:49:02-06:00
 featured: false

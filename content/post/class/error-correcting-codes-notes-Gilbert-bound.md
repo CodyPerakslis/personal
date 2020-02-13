@@ -5,8 +5,8 @@ title: "Error Correcting Codes Notes: Gilbert Bound"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [class,math,math5251]
-categories: []
+tags: [math,math5251]
+categories: [class]
 date: 2020-02-12T15:40:17-06:00
 lastmod: 2020-02-12T15:40:17-06:00
 featured: false
@@ -123,4 +123,4 @@ There exists a greatest common divisor $d = gcd(m,n)$ if $|m|+|n| \neq 0$, and a
 Suppose $d|m,d|n$. Enough to show $d|m$ since symmetric.  
 Suppose not: then $m = qd+r$, $0 < r < d$.  
 $r = m - qd = m - q(xm+yn) = (1-qx)m - qyn$  
-$r > 0, r < d, r$ is a linear combination of $m$ and $n$, so $d$ was not the smallest linear combination, which is a contradiction. Therefore $d$ did divide. 
+$r > 0, r < d, r$ is a linear combination of $m$ and $n$, so $d$ was not the smallest linear combination, which is a contradiction. Therefore $d$ did divide.

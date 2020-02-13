@@ -4,9 +4,9 @@
 title: "Causal Contact"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: [poetry,philosophy]
-categories: []
+categories: [poetry]
 date: 2020-02-12T17:45:26-06:00
 lastmod: 2020-02-12T17:45:26-06:00
 featured: false
