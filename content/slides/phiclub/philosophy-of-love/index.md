@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Phiclub Love"
+title: "Philosophy of Love"
 summary: ""
 authors: [admin]
-tags: []
-categories: []
+tags: [philosophy]
+categories: [phiclub]
 date: 2020-02-13T13:06:27-06:00
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
