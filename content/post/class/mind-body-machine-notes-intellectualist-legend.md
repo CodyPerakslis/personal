@@ -5,7 +5,7 @@ title: "Mind Body Machine Notes: Intellectualist Legend"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [philosophy,phil4615]
+tags: [philosophy,phil4615,metaphysics]
 categories: [class]
 date: 2020-02-11T09:45:16-06:00
 lastmod: 2020-02-11T09:45:16-06:00

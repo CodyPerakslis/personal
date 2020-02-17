@@ -5,7 +5,7 @@ title: "Error Correcting Codes Notes: Gilbert Bound"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [math,math5251]
+tags: [math,math5251,algebra]
 categories: [class]
 date: 2020-02-12T15:40:17-06:00
 lastmod: 2020-02-12T15:40:17-06:00
